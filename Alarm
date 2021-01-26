@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T07:12:16.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="JMHeibBRRYuQ_Exolwvv" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T07:21:53.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="n7QI2Nj8fM-v0rVhrnKQ" version="14.1.2" type="github">
   <diagram id="Wlu1y3pJtTUgoFSlalN4" name="Page-1">
-    <mxGraphModel dx="994" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bgLUX0nNdp4yJuTlV-mU-3" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;AlarmPortHandler&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=9;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="770" width="90" height="40" as="geometry" />
+        <mxCell id="bgLUX0nNdp4yJuTlV-mU-6" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 8px&quot;&gt;&lt;br&gt;&lt;b&gt;AlarmXXXHandlerImp&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="770" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bgLUX0nNdp4yJuTlV-mU-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;AlarmHandlerImp&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="600" width="140" height="60" as="geometry" />
+        <mxCell id="bgLUX0nNdp4yJuTlV-mU-4" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 8px&quot;&gt;&lt;br&gt;&lt;b&gt;AlarmHandlerImp&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bgLUX0nNdp4yJuTlV-mU-5" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 8px&quot;&gt;&lt;br&gt;&lt;b&gt;AlarmPortHandlerImp&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="770" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bgLUX0nNdp4yJuTlV-mU-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;AlarmXXXHandlerImp&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="770" width="140" height="60" as="geometry" />
+          <mxGeometry x="460" y="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bgLUX0nNdp4yJuTlV-mU-10" value="" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1">
           <mxGeometry x="1" y="10" width="160" relative="1" as="geometry">
@@ -25,31 +22,24 @@
         </mxCell>
         <mxCell id="bgLUX0nNdp4yJuTlV-mU-11" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="720" as="sourcePoint" />
-            <mxPoint x="760" y="720" as="targetPoint" />
+            <mxPoint x="520" y="720" as="sourcePoint" />
+            <mxPoint x="750" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgLUX0nNdp4yJuTlV-mU-12" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bgLUX0nNdp4yJuTlV-mU-5">
+        <mxCell id="bgLUX0nNdp4yJuTlV-mU-12" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="750" as="sourcePoint" />
-            <mxPoint x="490" y="720" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="520" y="770" as="sourcePoint" />
+            <mxPoint x="520" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="750" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bgLUX0nNdp4yJuTlV-mU-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="759.58" y="771" as="sourcePoint" />
-            <mxPoint x="759.58" y="720" as="targetPoint" />
+            <mxPoint x="749.5" y="770" as="sourcePoint" />
+            <mxPoint x="750" y="719" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bgLUX0nNdp4yJuTlV-mU-16" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bgLUX0nNdp4yJuTlV-mU-4">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="300" y="630" as="sourcePoint" />
-            <mxPoint x="460" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bgLUX0nNdp4yJuTlV-mU-17" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;AlarmHandler&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+ field: Type&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+ method(): Type&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="610" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="bgLUX0nNdp4yJuTlV-mU-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="585" width="160" height="90" as="geometry" />
@@ -61,6 +51,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bgLUX0nNdp4yJuTlV-mU-30" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=16;fontSize=9;" edge="1" parent="1" source="bgLUX0nNdp4yJuTlV-mU-5" target="bgLUX0nNdp4yJuTlV-mU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgLUX0nNdp4yJuTlV-mU-31" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=16;fontSize=9;" edge="1" parent="1" source="bgLUX0nNdp4yJuTlV-mU-6" target="bgLUX0nNdp4yJuTlV-mU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgLUX0nNdp4yJuTlV-mU-32" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 8px&quot;&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;b style=&quot;font-size: 9px&quot;&gt;AlarmPortHandler&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bgLUX0nNdp4yJuTlV-mU-36" value="&lt;font style=&quot;font-size: 8px&quot;&gt;«interface»&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/font&gt;" style="html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bgLUX0nNdp4yJuTlV-mU-38" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=16;fontSize=9;" edge="1" parent="1" source="bgLUX0nNdp4yJuTlV-mU-36" target="bgLUX0nNdp4yJuTlV-mU-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
