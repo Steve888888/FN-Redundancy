@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T04:21:22.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Cs98URj6CCByucT5gZ8E" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T04:22:39.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="GyFUcRMU2FXs8veqOTvZ" version="16.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="527" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,6 +204,23 @@
         </mxCell>
         <mxCell id="dFAO9P0iZ8nPdUqEWEvj-44" value="&amp;nbsp;&lt;b&gt;Obsever&amp;nbsp; pattern is used three times,between driver and plat sever,plat sever&amp;nbsp; and component.The difference is implemention.plat srv is used c,so callback is needed,and context is also needed to transfer between plat srv and component.&lt;br&gt;&lt;/b&gt;&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="20" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-46" value="Interest/tEvent" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="990" width="150" height="100" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-47" value="  m_handle" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="dFAO9P0iZ8nPdUqEWEvj-46">
+          <mxGeometry y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-48" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="dFAO9P0iZ8nPdUqEWEvj-46">
+          <mxGeometry y="52" width="150" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-49" value="SubscribleDeviceEvent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=none;" vertex="1" parent="dFAO9P0iZ8nPdUqEWEvj-46">
+          <mxGeometry y="60" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-50" value="&lt;span style=&quot;text-align: left&quot;&gt;WithdrawSubcribeEvent&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=none;" vertex="1" parent="dFAO9P0iZ8nPdUqEWEvj-46">
+          <mxGeometry y="80" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
