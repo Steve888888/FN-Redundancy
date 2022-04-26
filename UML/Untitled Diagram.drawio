@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T03:51:19.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="gP3_H2TV1xi2G016XmjG" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T03:52:57.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="MuRVc0r2_w8GmBE9vOZ4" version="16.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="527" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
         <mxCell id="dFAO9P0iZ8nPdUqEWEvj-21" value="Detach(Subject)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dFAO9P0iZ8nPdUqEWEvj-14">
           <mxGeometry y="80" width="176" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-36" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Notify&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dFAO9P0iZ8nPdUqEWEvj-14">
+        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-36" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Notify(subject,callback)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dFAO9P0iZ8nPdUqEWEvj-14">
           <mxGeometry y="100" width="176" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dFAO9P0iZ8nPdUqEWEvj-26" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TtslN54Au_sJ8w-_eA-f-5">
