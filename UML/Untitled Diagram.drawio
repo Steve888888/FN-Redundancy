@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T04:17:59.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Zq4FE7_pbQF9ONPjhB_H" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T04:20:34.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="q3HYdCZUehqU2jX3JBti" version="16.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="527" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="dFAO9P0iZ8nPdUqEWEvj-39" value="PlatServer is the publisher of LowlevelMonitor" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-44" value="&amp;nbsp;&lt;b&gt;Obsever&amp;nbsp; pattern is used three times,between driver and plat sever,plat sever&amp;nbsp; and component&lt;/b&gt;&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFAO9P0iZ8nPdUqEWEvj-44" value="&amp;nbsp;&lt;b&gt;Obsever&amp;nbsp; pattern is used three times,between driver and plat sever,plat sever&amp;nbsp; and component.The difference is implemention.plat srv is used c,so callback is needed,and context is also needed to transfer between plat srv and component.&lt;br&gt;&lt;/b&gt;&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="20" width="570" height="30" as="geometry" />
         </mxCell>
       </root>
